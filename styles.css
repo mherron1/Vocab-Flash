@@ -308,12 +308,12 @@ body {
     }
 
     #sliderContainer {
-        display: flex;
-        position: absolute;
-        bottom:50px;
-        align-items: center;
-        justify-content: bottom;
-        margin-top: 20px;
+        margin-left:80px;
+        margin-right:80px;
+    }
+
+    #sliderLabel {
+        font-size:16px;
     }
 
     #translation {
