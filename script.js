@@ -186,6 +186,7 @@ document.getElementById('wordRange').addEventListener('input', function(e) {
 
     let storedLanguage = "fr";
     let storedRange = 1000;
+    
 
     storedLanguage = localStorage.getItem('selectedLanguage');  //Get saved selected language
     storedRange = localStorage.getItem('wordRange'); // Get saved selected range
@@ -195,11 +196,16 @@ document.getElementById('wordRange').addEventListener('input', function(e) {
 
         if(storedLanguage != ""){
             document.querySelector('#language-select').value = storedLanguage;  
+        }else{
+            document.querySelector('#language-select').value = "fr";   
         }
 
         if(storedRange != ""){
             document.querySelector('#wordRange').value = storedRange;
             document.querySelector('.sliderInitialRange').textContent = storedRange;
+        }else{
+            document.querySelector('#wordRange').value = 1000;
+            document.querySelector('.sliderInitialRange').textContent = 1000;            
         }
 
         document.querySelector('body').style.opacity = 1;
