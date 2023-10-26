@@ -129,9 +129,10 @@ document.body.addEventListener('click', function(e) {
         document.querySelector('#wordDisplay').style.transform = "translateY(25px)";
         localStorage.setItem('selectedLanguage', document.querySelector('#language-select').value);
         localStorage.setItem('wordRange', document.querySelector('#wordRange').value); // Save the selected language
-
-
         displayWord();
+        setTimeout(()=>{
+            displayWord();  
+        },5000)
     }
 
 
