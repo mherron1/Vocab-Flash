@@ -123,6 +123,7 @@ document.body.addEventListener('click', function(e) {
 
     if(isFirstClick){
         isFirstClick = false;
+        displayWord();
         document.querySelector('.select-container').style.display = "none";
         document.querySelector('#sliderContainer').style.display = "none";
         document.querySelector('.reset-button').style.display = "block";
@@ -132,7 +133,7 @@ document.body.addEventListener('click', function(e) {
         displayWord();
         setTimeout(()=>{
             displayWord();  
-        },5000)
+        },0)
     }
 
 
