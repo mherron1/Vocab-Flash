@@ -230,6 +230,10 @@ body {
     text-align:center;
 }
 
+#language-select option {
+    background-color: #fff;
+}
+
 #language-select:hover {
 cursor:pointer;
 }
@@ -388,7 +392,6 @@ body {
         top:50%;
         transform:translateY(-55px);
     }
-
 
     #exampleAudioIconSymbol{
         position:absolute;
