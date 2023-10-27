@@ -508,546 +508,546 @@ let spanishWords = [
         "spanish": "era",
         "english": "was (1st and 3rd person singular of 'ser' in the past)",
         "exampleSentence": "Era un día soleado.",
-        "english": "It was a sunny day."
+        "translation": "It was a sunny day."
       },
       {
         "rank": 74,
         "spanish": "eres",
         "english": "you are (informal) (2nd person singular of 'ser')",
         "exampleSentence": "Tú eres inteligente.",
-        "english": "You are intelligent."
+        "translation": "You are intelligent."
       },
       {
         "rank": 75,
         "spanish": "vez",
         "english": "time, occasion",
         "exampleSentence": "Es la primera vez que lo hago.",
-        "english": "It's the first time I do it."
+        "translation": "It's the first time I do it."
       },
       {
         "rank": 76,
         "spanish": "tienes",
         "english": "you have (informal) (2nd person singular of 'tener')",
         "exampleSentence": "Tienes una sonrisa hermosa.",
-        "english": "You have a beautiful smile."
+        "translation": "You have a beautiful smile."
       },
       {
         "rank": 77,
         "spanish": "creo",
         "english": "I believe",
         "exampleSentence": "Creo que tienes razón.",
-        "english": "I believe you are right."
+        "translation": "I believe you are right."
       },
       {
         "rank": 78,
         "spanish": "ella",
         "english": "she",
         "exampleSentence": "Ella es mi hermana.",
-        "english": "She is my sister."
+        "translation": "She is my sister."
       },
       {
         "rank": 79,
         "spanish": "he",
         "english": "he, she, it (3rd person singular)",
         "exampleSentence": "He llegado.",
-        "english": "I have arrived."
+        "translation": "I have arrived."
       },
       {
         "rank": 80,
         "spanish": "ese",
         "english": "that (masculine)",
         "exampleSentence": "Ese coche es caro.",
-        "english": "That car is expensive."
+        "translation": "That car is expensive."
       },
       {
         "rank": 81,
         "spanish": "voy",
         "english": "I go (1st person singular of 'ir')",
         "exampleSentence": "Voy al mercado.",
-        "english": "I go to the market."
+        "translation": "I go to the market."
       },
       {
         "rank": 82,
         "spanish": "puede",
         "english": "he/she/it can (3rd person singular of 'poder')",
         "exampleSentence": "Ella puede hacerlo.",
-        "english": "She can do it."
+        "translation": "She can do it."
       },
       {
         "rank": 83,
         "spanish": "sabes",
         "english": "you know (informal) (2nd person singular of 'saber')",
         "exampleSentence": "Tú sabes la respuesta.",
-        "english": "You know the answer."
+        "translation": "You know the answer."
       },
       {
         "rank": 84,
         "spanish": "hola",
         "english": "hello",
         "exampleSentence": "¡Hola! ¿Cómo estás?",
-        "english": "Hello! How are you?"
+        "translation": "Hello! How are you?"
       },
       {
         "rank": 85,
         "spanish": "sus",
         "english": "his, her, its, their (plural possessive)",
         "exampleSentence": "Sus hijos son inteligentes.",
-        "english": "Their children are intelligent."
+        "translation": "Their children are intelligent."
       },
       {
         "rank": 86,
         "spanish": "porque",
         "english": "because",
         "exampleSentence": "No puedo salir porque estoy enfermo.",
-        "english": "I can't go out because I'm sick."
+        "translation": "I can't go out because I'm sick."
       },
       {
         "rank": 87,
         "spanish": "dios",
         "english": "God",
         "exampleSentence": "Dios es amor.",
-        "english": "God is love."
+        "translation": "God is love."
       },
       {
         "rank": 88,
         "spanish": "quién",
         "english": "who",
         "exampleSentence": "¿Quién es ese hombre?",
-        "english": "Who is that man?"
+        "translation": "Who is that man?"
       },
       {
         "rank": 89,
         "spanish": "nunca",
         "english": "never",
         "exampleSentence": "Nunca he estado allí.",
-        "english": "I've never been there."
+        "translation": "I've never been there."
       },
       {
         "rank": 90,
         "spanish": "dónde",
         "english": "where",
         "exampleSentence": "¿Dónde estás?",
-        "english": "Where are you?"
+        "translation": "Where are you?"
       },
       {
         "rank": 91,
         "spanish": "quieres",
         "english": "you want (informal) (2nd person singular of 'querer')",
         "exampleSentence": "¿Quieres ir al cine?",
-        "english": "Do you want to go to the movies?"
+        "translation": "Do you want to go to the movies?"
       },
       {
         "rank": 92,
         "spanish": "casa",
         "english": "house, home",
         "exampleSentence": "Voy a casa.",
-        "english": "I'm going home."
+        "translation": "I'm going home."
       },
       {
         "rank": 93,
         "spanish": "favor",
         "english": "favor",
         "exampleSentence": "Por favor, ayúdame.",
-        "english": "Please, help me."
+        "translation": "Please, help me."
       },
       {
         "rank": 94,
         "spanish": "esa",
         "english": "that (feminine)",
         "exampleSentence": "Esa película es interesante.",
-        "english": "That movie is interesting."
+        "translation": "That movie is interesting."
       },
       {
         "rank": 95,
         "spanish": "dos",
         "english": "two",
         "exampleSentence": "Tengo dos gatos.",
-        "english": "I have two cats."
+        "translation": "I have two cats."
       },
       {
         "rank": 96,
         "spanish": "tan",
         "english": "so, such",
         "exampleSentence": "Ella es tan inteligente.",
-        "english": "She is so intelligent."
+        "translation": "She is so intelligent."
       },
       {
         "rank": 97,
         "spanish": "señor",
         "english": "mister, sir",
         "exampleSentence": "Buenos días, señor.",
-        "english": "Good morning, sir."
+        "translation": "Good morning, sir."
       },
       {
         "rank": 98,
         "spanish": "tiempo",
         "english": "time, weather",
         "exampleSentence": "El tiempo está soleado.",
-        "english": "The weather is sunny."
+        "translation": "The weather is sunny."
       },
       {
         "rank": 99,
         "spanish": "verdad",
         "english": "truth",
         "exampleSentence": "Dime la verdad.",
-        "english": "Tell me the truth."
+        "translation": "Tell me the truth."
       },
       {
         "rank": 100,
         "spanish": "estaba",
         "english": "was (1st and 3rd person singular of 'estar' in the past)",
         "exampleSentence": "Estaba cansado anoche.",
-        "english": "I was tired last night."
+        "translation": "I was tired last night."
       },
       {
         "rank": 101,
         "spanish": "mejor",
         "english": "better, best",
         "exampleSentence": "Este restaurante es el mejor de la ciudad.",
-        "english": "This restaurant is the best in town."
+        "translation": "This restaurant is the best in town."
       },
       {
         "rank": 102,
         "spanish": "están",
         "english": "are (3rd person plural of 'estar')",
         "exampleSentence": "Ellos están en el parque.",
-        "english": "They are in the park."
+        "translation": "They are in the park."
       },
       {
         "rank": 103,
         "spanish": "va",
         "english": "goes (3rd person singular of 'ir')",
         "exampleSentence": "Ella va a la escuela.",
-        "english": "She goes to school."
+        "translation": "She goes to school."
       },
       {
         "rank": 104,
         "spanish": "hombre",
         "english": "man",
         "exampleSentence": "Ese hombre es muy amable.",
-        "english": "That man is very kind."
+        "translation": "That man is very kind."
       },
       {
         "rank": 105,
         "spanish": "usted",
         "english": "you (formal)",
         "exampleSentence": "¿Usted necesita ayuda?",
-        "english": "Do you need help?"
+        "translation": "Do you need help?"
       },
       {
         "rank": 106,
         "spanish": "mucho",
         "english": "much, many",
         "exampleSentence": "Tengo mucho trabajo.",
-        "english": "I have a lot of work."
+        "translation": "I have a lot of work."
       },
       {
         "rank": 107,
         "spanish": "hace",
         "english": "does, makes (3rd person singular of 'hacer')",
         "exampleSentence": "Él hace pasteles deliciosos.",
-        "english": "He makes delicious cakes."
+        "translation": "He makes delicious cakes."
       },
       {
         "rank": 108,
         "spanish": "entonces",
         "english": "then",
         "exampleSentence": "Terminé mi tarea, entonces fui a jugar.",
-        "english": "I finished my homework, then I went to play."
+        "translation": "I finished my homework, then I went to play."
       },
       {
         "rank": 109,
         "spanish": "siento",
         "english": "I feel, I'm sorry (1st person singular of 'sentir')",
         "exampleSentence": "Siento tu pérdida.",
-        "english": "I'm sorry for your loss."
+        "translation": "I'm sorry for your loss."
       },
       {
         "rank": 110,
         "spanish": "tenemos",
         "english": "we have (1st person plural of 'tener')",
         "exampleSentence": "Tenemos una reunión mañana.",
-        "english": "We have a meeting tomorrow."
+        "translation": "We have a meeting tomorrow."
       },
       {
         "rank": 111,
         "spanish": "puedes",
         "english": "you can (informal) (2nd person singular of 'poder')",
         "exampleSentence": "Puedes hacerlo.",
-        "english": "You can do it."
+        "translation": "You can do it."
       },
       {
         "rank": 112,
         "spanish": "ahí",
         "english": "there",
         "exampleSentence": "Mi libro está ahí.",
-        "english": "My book is there."
+        "translation": "My book is there."
       },
       {
         "rank": 113,
         "spanish": "ti",
         "english": "you (informal)",
         "exampleSentence": "Estoy pensando en ti.",
-        "english": "I'm thinking of you."
+        "translation": "I'm thinking of you."
       },
       {
         "rank": 114,
         "spanish": "vida",
         "english": "life",
         "exampleSentence": "La vida es bella.",
-        "english": "Life is beautiful."
+        "translation": "Life is beautiful."
       },
       {
         "rank": 115,
         "spanish": "ver",
         "english": "see",
         "exampleSentence": "Quiero ver esa película.",
-        "english": "I want to see that movie."
+        "translation": "I want to see that movie."
       },
       {
         "rank": 116,
         "spanish": "alguien",
         "english": "someone",
         "exampleSentence": "Alguien llamó por teléfono.",
-        "english": "Someone called on the phone."
+        "translation": "Someone called on the phone."
       },
       {
         "rank": 117,
         "spanish": "sr",
         "english": "Mr., sir",
         "exampleSentence": "El Sr. Smith está en una reunión.",
-        "english": "Mr. Smith is in a meeting."
+        "translation": "Mr. Smith is in a meeting."
       },
       {
         "rank": 118,
         "spanish": "hasta",
         "english": "until",
         "exampleSentence": "Trabajaré hasta tarde.",
-        "english": "I will work until late."
+        "translation": "I will work until late."
       },
       {
         "rank": 119,
         "spanish": "sin",
         "english": "without",
         "exampleSentence": "No puedo vivir sin música.",
-        "english": "I can't live without music."
+        "translation": "I can't live without music."
       },
       {
         "rank": 120,
         "spanish": "mí",
         "english": "me",
         "exampleSentence": "Ella habló de mí.",
-        "english": "She talked about me."
+        "translation": "She talked about me."
       },
       {
         "rank": 121,
         "spanish": "solo",
         "english": "alone, only",
         "exampleSentence": "Me siento solo.",
-        "english": "I feel alone."
+        "translation": "I feel alone."
       },
       {
         "rank": 122,
         "spanish": "años",
         "english": "years",
         "exampleSentence": "Tengo treinta años.",
-        "english": "I am thirty years old."
+        "translation": "I am thirty years old."
       },
       {
         "rank": 123,
         "spanish": "sobre",
         "english": "on, about",
         "exampleSentence": "Hablemos sobre el proyecto.",
-        "english": "Let's talk about the project."
+        "translation": "Let's talk about the project."
       },
       {
         "rank": 124,
         "spanish": "decir",
         "english": "to say, to tell (infinitive)",
         "exampleSentence": "¿Qué quieres decir?",
-        "english": "What do you want to say?"
+        "translation": "What do you want to say?"
       },
       {
         "rank": 125,
         "spanish": "uno",
         "english": "one",
         "exampleSentence": "Necesito uno más.",
-        "english": "I need one more."
+        "translation": "I need one more."
       },
       {
         "rank": 126,
         "spanish": "siempre",
         "english": "always",
         "exampleSentence": "Ella siempre llega a tiempo.",
-        "english": "She always arrives on time."
+        "translation": "She always arrives on time."
       },
       {
         "rank": 127,
         "spanish": "oh",
         "english": "oh",
         "exampleSentence": "¡Oh, no lo sabía!",
-        "english": "Oh, I didn't know!"
+        "translation": "Oh, I didn't know!"
       },
       {
         "rank": 128,
         "spanish": "ir",
         "english": "to go (infinitive)",
         "exampleSentence": "Vamos a la playa.",
-        "english": "Let's go to the beach."
+        "translation": "Let's go to the beach."
       },
       {
         "rank": 129,
         "spanish": "cosas",
         "english": "things",
         "exampleSentence": "Tengo muchas cosas que hacer.",
-        "english": "I have a lot of things to do."
+        "translation": "I have a lot of things to do."
       },
       {
         "rank": 130,
         "spanish": "también",
         "english": "also, too",
         "exampleSentence": "Yo también quiero pizza.",
-        "english": "I want pizza too."
+        "translation": "I want pizza too."
       },
       {
         "rank": 131,
         "spanish": "antes",
         "english": "before",
         "exampleSentence": "Llegué antes que tú.",
-        "english": "I arrived before you."
+        "translation": "I arrived before you."
       },
       {
         "rank": 132,
         "spanish": "has",
         "english": "you have (informal) (2nd person singular of 'haber')",
         "exampleSentence": "Has terminado tu tarea.",
-        "english": "You have finished your homework."
+        "translation": "You have finished your homework."
       },
       {
         "rank": 133,
         "spanish": "ni",
         "english": "neither, nor",
         "exampleSentence": "Ni él ni yo podemos ir.",
-        "english": "Neither he nor I can go."
+        "translation": "Neither he nor I can go."
       },
       {
         "rank": 134,
         "spanish": "mis",
         "english": "my (plural)",
         "exampleSentence": "Son mis libros.",
-        "english": "They are my books."
+        "translation": "They are my books."
       },
       {
         "rank": 135,
         "spanish": "día",
         "english": "day",
         "exampleSentence": "Hoy es un buen día.",
-        "english": "Today is a good day."
+        "translation": "Today is a good day."
       },
       {
         "rank": 136,
         "spanish": "estar",
         "english": "to be (infinitive)",
         "exampleSentence": "Estoy en casa.",
-        "english": "I am at home."
+        "translation": "I am at home."
       },
       {
         "rank": 137,
         "spanish": "estamos",
         "english": "we are (1st person plural of 'estar')",
         "exampleSentence": "Estamos listos para salir.",
-        "english": "We are ready to go out."
+        "translation": "We are ready to go out."
       },
       {
         "rank": 138,
         "spanish": "noche",
         "english": "night",
         "exampleSentence": "Vamos al cine esta noche.",
-        "english": "We are going to the movies tonight."
+        "translation": "We are going to the movies tonight."
       },
       {
         "rank": 139,
         "spanish": "nadie",
         "english": "nobody, no one",
         "exampleSentence": "Nadie sabe la respuesta.",
-        "english": "Nobody knows the answer."
+        "translation": "Nobody knows the answer."
       },
       {
         "rank": 140,
         "spanish": "otra",
         "english": "another, other",
         "exampleSentence": "Quiero otra taza de café.",
-        "english": "I want another cup of coffee."
+        "translation": "I want another cup of coffee."
       },
       {
         "rank": 141,
         "spanish": "quiere",
         "english": "he/she/it wants (3rd person singular of 'querer')",
         "exampleSentence": "Ella quiere un helado.",
-        "english": "She wants ice cream."
+        "translation": "She wants ice cream."
       },
       {
         "rank": 142,
         "spanish": "parece",
         "english": "it seems",
         "exampleSentence": "Parece que va a llover.",
-        "english": "It seems like it's going to rain."
+        "translation": "It seems like it's going to rain."
       },
       {
         "rank": 143,
         "spanish": "nosotros",
         "english": "we",
         "exampleSentence": "Nosotros vamos al parque.",
-        "english": "We are going to the park."
+        "translation": "We are going to the park."
       },
       {
         "rank": 144,
         "spanish": "poco",
         "english": "few, little",
         "exampleSentence": "Tengo poco tiempo.",
-        "english": "I have little time."
+        "translation": "I have little time."
       },
       {
         "rank": 145,
         "spanish": "padre",
         "english": "father",
         "exampleSentence": "Mi padre es muy trabajador.",
-        "english": "My father is very hardworking."
+        "translation": "My father is very hardworking."
       },
       {
         "rank": 146,
         "spanish": "trabajo",
         "english": "work, job",
         "exampleSentence": "Tengo mucho trabajo esta semana.",
-        "english": "I have a lot of work this week."
+        "translation": "I have a lot of work this week."
       },
       {
         "rank": 147,
         "spanish": "gente",
         "english": "people",
         "exampleSentence": "La gente está contenta.",
-        "english": "The people are happy."
+        "translation": "The people are happy."
       },
       {
         "rank": 148,
         "spanish": "mira",
         "english": "look",
         "exampleSentence": "Mira ese hermoso paisaje.",
-        "english": "Look at that beautiful landscape."
+        "translation": "Look at that beautiful landscape."
       },
       {
         "rank": 149,
         "spanish": "vas",
         "english": "you go (informal) (2nd person singular of 'ir')",
         "exampleSentence": "¿A dónde vas?",
-        "english": "Where are you going?"
+        "translation": "Where are you going?"
       },
       {
         "rank": 150,
         "spanish": "sea",
         "english": "be (3rd person singular of 'ser' or 'estar')",
         "exampleSentence": "Ella sea muy inteligente.",
-        "english": "She is very intelligent."
+        "translation": "She is very intelligent."
       },
 
       {
@@ -1055,651 +1055,651 @@ let spanishWords = [
         "spanish": "les",
         "english": "them, to them",
         "exampleSentence": "Voy a darles un regalo.",
-        "english": "I'm going to give them a gift."
+        "translation": "I'm going to give them a gift."
       },
       {
         "rank": 152,
         "spanish": "donde",
         "english": "where",
         "exampleSentence": "¿Dónde estás?",
-        "english": "Where are you?"
+        "translation": "Where are you?"
       },
       {
         "rank": 153,
         "spanish": "mismo",
         "english": "same, oneself",
         "exampleSentence": "Tengo el mismo coche.",
-        "english": "I have the same car."
+        "translation": "I have the same car."
       },
       {
         "rank": 154,
         "spanish": "hecho",
         "english": "done, made (past participle of 'hacer')",
         "exampleSentence": "El pastel está hecho.",
-        "english": "The cake is done."
+        "translation": "The cake is done."
       },
       {
         "rank": 155,
         "spanish": "ellos",
         "english": "they",
         "exampleSentence": "Ellos son mis amigos.",
-        "english": "They are my friends."
+        "translation": "They are my friends."
       },
       {
         "rank": 156,
         "spanish": "dijo",
         "english": "said (3rd person singular of 'decir')",
         "exampleSentence": "Él dijo la verdad.",
-        "english": "He said the truth."
+        "translation": "He said the truth."
       },
       {
         "rank": 157,
         "spanish": "pasa",
         "english": "happens, is happening (3rd person singular of 'pasar')",
         "exampleSentence": "¿Qué pasa aquí?",
-        "english": "What is happening here?"
+        "translation": "What is happening here?"
       },
       {
         "rank": 158,
         "spanish": "dinero",
         "english": "money",
         "exampleSentence": "Necesito más dinero.",
-        "english": "I need more money."
+        "translation": "I need more money."
       },
       {
         "rank": 159,
         "spanish": "hijo",
         "english": "son",
         "exampleSentence": "Mi hijo tiene cinco años.",
-        "english": "My son is five years old."
+        "translation": "My son is five years old."
       },
       {
         "rank": 160,
         "spanish": "tal",
         "english": "such, so",
         "exampleSentence": "Es tal como lo imaginaba.",
-        "english": "It's just as I imagined it."
+        "translation": "It's just as I imagined it."
       },
       {
         "rank": 161,
         "spanish": "otro",
         "english": "other, another",
         "exampleSentence": "Quiero otro helado.",
-        "english": "I want another ice cream."
+        "translation": "I want another ice cream."
       },
       {
         "rank": 162,
         "spanish": "hablar",
         "english": "to speak, to talk",
         "exampleSentence": "Vamos a hablar en la reunión.",
-        "english": "Let's talk at the meeting."
+        "translation": "Let's talk at the meeting."
       },
       {
         "rank": 163,
         "spanish": "seguro",
         "english": "sure, secure",
         "exampleSentence": "Estoy seguro de mi decisión.",
-        "english": "I'm sure of my decision."
+        "translation": "I'm sure of my decision."
       },
       {
         "rank": 164,
         "spanish": "claro",
         "english": "clear, of course",
         "exampleSentence": "Claro que sí, lo haré.",
-        "english": "Of course, I'll do it."
+        "translation": "Of course, I'll do it."
       },
       {
         "rank": 165,
         "spanish": "estas",
         "english": "these",
         "exampleSentence": "Estas son mis cosas.",
-        "english": "These are my things."
+        "translation": "These are my things."
       },
       {
         "rank": 166,
         "spanish": "lugar",
         "english": "place",
         "exampleSentence": "Este es un buen lugar para descansar.",
-        "english": "This is a good place to rest."
+        "translation": "This is a good place to rest."
       },
       {
         "rank": 167,
         "spanish": "mundo",
         "english": "world",
         "exampleSentence": "El mundo es grande.",
-        "english": "The world is big."
+        "translation": "The world is big."
       },
       {
         "rank": 168,
         "spanish": "amigo",
         "english": "friend",
         "exampleSentence": "Juan es mi mejor amigo.",
-        "english": "Juan is my best friend."
+        "translation": "Juan is my best friend."
       },
       {
         "rank": 169,
         "spanish": "espera",
         "english": "wait",
         "exampleSentence": "Por favor, espera un momento.",
-        "english": "Please, wait a moment."
+        "translation": "Please, wait a moment."
       },
       {
         "rank": 170,
         "spanish": "mierda",
         "english": "crap, shit",
         "exampleSentence": "¡Qué mierda!",
-        "english": "What crap!"
+        "translation": "What crap!"
       },
       {
         "rank": 171,
         "spanish": "han",
         "english": "they have (3rd person plural of 'haber')",
         "exampleSentence": "Han llegado tarde.",
-        "english": "They have arrived late."
+        "translation": "They have arrived late."
       },
       {
         "rank": 172,
         "spanish": "tus",
         "english": "your (singular, informal)",
         "exampleSentence": "Tus libros están en la mesa.",
-        "english": "Your books are on the table."
+        "translation": "Your books are on the table."
       },
       {
         "rank": 173,
         "spanish": "sabe",
         "english": "knows (3rd person singular of 'saber')",
         "exampleSentence": "Él sabe la respuesta.",
-        "english": "He knows the answer."
+        "translation": "He knows the answer."
       },
       {
         "rank": 174,
         "spanish": "después",
         "english": "after, later",
         "exampleSentence": "Vendré después del trabajo.",
-        "english": "I'll come after work."
+        "translation": "I'll come after work."
       },
       {
         "rank": 175,
         "spanish": "momento",
         "english": "moment",
         "exampleSentence": "Espera un momento, por favor.",
-        "english": "Wait a moment, please."
+        "translation": "Wait a moment, please."
       },
       {
         "rank": 176,
         "spanish": "desde",
         "english": "from, since",
         "exampleSentence": "Vivo aquí desde hace cinco años.",
-        "english": "I've been living here for five years."
+        "translation": "I've been living here for five years."
       },
       {
         "rank": 177,
         "spanish": "fuera",
         "english": "outside",
         "exampleSentence": "Hace frío fuera.",
-        "english": "It's cold outside."
+        "translation": "It's cold outside."
       },
       {
         "rank": 178,
         "spanish": "cosa",
         "english": "thing",
         "exampleSentence": "No entiendo esa cosa.",
-        "english": "I don't understand that thing."
+        "translation": "I don't understand that thing."
       },
       {
         "rank": 179,
         "spanish": "tipo",
         "english": "type, kind",
         "exampleSentence": "Ella es un tipo de artista.",
-        "english": "She's a type of artist."
+        "translation": "She's a type of artist."
       },
       {
         "rank": 180,
         "spanish": "mañana",
         "english": "morning, tomorrow",
         "exampleSentence": "Voy a la tienda mañana.",
-        "english": "I'm going to the store tomorrow."
+        "translation": "I'm going to the store tomorrow."
       },
       {
         "rank": 181,
         "spanish": "podemos",
         "english": "we can (1st person plural of 'poder')",
         "exampleSentence": "Podemos hacerlo juntos.",
-        "english": "We can do it together."
+        "translation": "We can do it together."
       },
       {
         "rank": 182,
         "spanish": "dije",
         "english": "I said (1st person singular of 'decir')",
         "exampleSentence": "Yo lo dije ayer.",
-        "english": "I said it yesterday."
+        "translation": "I said it yesterday."
       },
       {
         "rank": 183,
         "spanish": "gran",
         "english": "great, big",
         "exampleSentence": "Es una gran idea.",
-        "english": "It's a great idea."
+        "translation": "It's a great idea."
       },
       {
         "rank": 184,
         "spanish": "necesito",
         "english": "I need",
         "exampleSentence": "Necesito tu ayuda.",
-        "english": "I need your help."
+        "translation": "I need your help."
       },
       {
         "rank": 185,
         "spanish": "estado",
         "english": "state, condition",
         "exampleSentence": "Mi estado de ánimo es bueno.",
-        "english": "My mood is good."
+        "translation": "My mood is good."
       },
       {
         "rank": 186,
         "spanish": "podría",
         "english": "could, might (conditional form of 'poder')",
         "exampleSentence": "Podría ser posible.",
-        "english": "It could be possible."
+        "translation": "It could be possible."
       },
       {
         "rank": 187,
         "spanish": "acuerdo",
         "english": "agreement",
         "exampleSentence": "Estamos de acuerdo contigo.",
-        "english": "We agree with you."
+        "translation": "We agree with you."
       },
       {
         "rank": 188,
         "spanish": "papá",
         "english": "dad, daddy",
         "exampleSentence": "Mi papá es muy amable.",
-        "english": "My dad is very kind."
+        "translation": "My dad is very kind."
       },
       {
         "rank": 189,
         "spanish": "tener",
         "english": "to have",
         "exampleSentence": "Tengo hambre.",
-        "english": "I'm hungry."
+        "translation": "I'm hungry."
       },
       {
         "rank": 190,
         "spanish": "dice",
         "english": "says (3rd person singular of 'decir')",
         "exampleSentence": "Él dice la verdad.",
-        "english": "He says the truth."
+        "translation": "He says the truth."
       },
       {
         "rank": 191,
         "spanish": "mío",
         "english": "mine",
         "exampleSentence": "Ese libro es mío.",
-        "english": "That book is mine."
+        "translation": "That book is mine."
       },
       {
         "rank": 192,
         "spanish": "crees",
         "english": "you believe (informal) (2nd person singular of 'creer')",
         "exampleSentence": "¿Tú crees en fantasmas?",
-        "english": "Do you believe in ghosts?"
+        "translation": "Do you believe in ghosts?"
       },
       {
         "rank": 193,
         "spanish": "buena",
         "english": "good (feminine)",
         "exampleSentence": "Es una buena idea.",
-        "english": "It's a good idea."
+        "translation": "It's a good idea."
       },
       {
         "rank": 194,
         "spanish": "gusta",
         "english": "like",
         "exampleSentence": "Me gusta la música.",
-        "english": "I like music."
+        "translation": "I like music."
       },
       {
         "rank": 195,
         "spanish": "nuestro",
         "english": "our (masculine)",
         "exampleSentence": "Este es nuestro proyecto.",
-        "english": "This is our project."
+        "translation": "This is our project."
       },
       {
         "rank": 196,
         "spanish": "nuevo",
         "english": "new",
         "exampleSentence": "Tenemos un coche nuevo.",
-        "english": "We have a new car."
+        "translation": "We have a new car."
       },
       {
         "rank": 197,
         "spanish": "será",
         "english": "will be (3rd person singular of 'ser')",
         "exampleSentence": "Mañana será un buen día.",
-        "english": "Tomorrow will be a good day."
+        "translation": "Tomorrow will be a good day."
       },
       {
         "rank": 198,
         "spanish": "haciendo",
         "english": "doing (present participle of 'hacer')",
         "exampleSentence": "Estoy haciendo mi tarea.",
-        "english": "I'm doing my homework."
+        "translation": "I'm doing my homework."
       },
       {
         "rank": 199,
         "spanish": "días",
         "english": "days",
         "exampleSentence": "Los días son cortos en invierno.",
-        "english": "Days are short in winter."
+        "translation": "Days are short in winter."
       },
       {
         "rank": 200,
         "spanish": "nombre",
         "english": "name",
         "exampleSentence": "Dime tu nombre, por favor.",
-        "english": "Tell me your name, please."
+        "translation": "Tell me your name, please."
       },
       {
         "rank": 201,
         "spanish": "buen",
         "english": "good (masculine)",
         "exampleSentence": "Es un buen día.",
-        "english": "It's a good day."
+        "translation": "It's a good day."
       },
       {
         "rank": 202,
         "spanish": "había",
         "english": "there was, there were (past tense of 'haber')",
         "exampleSentence": "Había muchos libros en la biblioteca.",
-        "english": "There were many books in the library."
+        "translation": "There were many books in the library."
       },
       {
         "rank": 203,
         "spanish": "ven",
         "english": "come (2nd person singular of 'venir')",
         "exampleSentence": "Ven aquí, por favor.",
-        "english": "Come here, please."
+        "translation": "Come here, please."
       },
       {
         "rank": 204,
         "spanish": "tres",
         "english": "three",
         "exampleSentence": "Tengo tres gatos.",
-        "english": "I have three cats."
+        "translation": "I have three cats."
       },
       {
         "rank": 205,
         "spanish": "menos",
         "english": "less",
         "exampleSentence": "Tengo menos tiempo ahora.",
-        "english": "I have less time now."
+        "translation": "I have less time now."
       },
       {
         "rank": 206,
         "spanish": "debe",
         "english": "must, should (3rd person singular of 'deber')",
         "exampleSentence": "Él debe estudiar para el examen.",
-        "english": "He must study for the exam."
+        "translation": "He must study for the exam."
       },
       {
         "rank": 207,
         "spanish": "tenía",
         "english": "had (past tense of 'tener')",
         "exampleSentence": "Tenía un perro cuando era niño.",
-        "english": "I had a dog when I was a child."
+        "translation": "I had a dog when I was a child."
       },
       {
         "rank": 208,
         "spanish": "mal",
         "english": "bad",
         "exampleSentence": "Ella se siente mal hoy.",
-        "english": "She feels bad today."
+        "translation": "She feels bad today."
       },
       {
         "rank": 209,
         "spanish": "conmigo",
         "english": "with me",
         "exampleSentence": "Ven conmigo al parque.",
-        "english": "Come with me to the park."
+        "translation": "Come with me to the park."
       },
       {
         "rank": 210,
         "spanish": "madre",
         "english": "mother",
         "exampleSentence": "Mi madre cocina muy bien.",
-        "english": "My mother cooks very well."
+        "translation": "My mother cooks very well."
       },
       {
         "rank": 211,
         "spanish": "hoy",
         "english": "today",
         "exampleSentence": "Hoy es un día soleado.",
-        "english": "Today is a sunny day."
+        "translation": "Today is a sunny day."
       },
       {
         "rank": 212,
         "spanish": "quien",
         "english": "who",
         "exampleSentence": "¿Quién es ese hombre?",
-        "english": "Who is that man?"
+        "translation": "Who is that man?"
       },
       {
         "rank": 213,
         "spanish": "sido",
         "english": "been (past participle of 'ser' or 'estar')",
         "exampleSentence": "He sido muy afortunado.",
-        "english": "I have been very lucky."
+        "translation": "I have been very lucky."
       },
       {
         "rank": 214,
         "spanish": "mamá",
         "english": "mom, mommy",
         "exampleSentence": "Mi mamá me preparó el desayuno.",
-        "english": "My mom prepared breakfast for me."
+        "translation": "My mom prepared breakfast for me."
       },
       {
         "rank": 215,
         "spanish": "tienen",
         "english": "they have (3rd person plural of 'tener')",
         "exampleSentence": "Tienen un perro y un gato.",
-        "english": "They have a dog and a cat."
+        "translation": "They have a dog and a cat."
       },
       {
         "rank": 216,
         "spanish": "luego",
         "english": "later, then",
         "exampleSentence": "Nos vemos luego.",
-        "english": "See you later."
+        "translation": "See you later."
       },
       {
         "rank": 217,
         "spanish": "todas",
         "english": "all (feminine)",
         "exampleSentence": "Todas las chicas son amigas.",
-        "english": "All the girls are friends."
+        "translation": "All the girls are friends."
       },
       {
         "rank": 218,
         "spanish": "allí",
         "english": "there",
         "exampleSentence": "Mi libro está allí.",
-        "english": "My book is there."
+        "translation": "My book is there."
       },
       {
         "rank": 219,
         "spanish": "toda",
         "english": "all (feminine, singular)",
         "exampleSentence": "Toda la comida está lista.",
-        "english": "All the food is ready."
+        "translation": "All the food is ready."
       },
       {
         "rank": 220,
         "spanish": "hora",
         "english": "hour, time",
         "exampleSentence": "Es la hora de cenar.",
-        "english": "It's dinner time."
+        "translation": "It's dinner time."
       },
       {
         "rank": 221,
         "spanish": "mujer",
         "english": "woman, wife",
         "exampleSentence": "Ella es una mujer inteligente.",
-        "english": "She is an intelligent woman."
+        "translation": "She is an intelligent woman."
       },
       {
         "rank": 222,
         "spanish": "visto",
         "english": "seen (past participle of 'ver')",
         "exampleSentence": "He visto esa película antes.",
-        "english": "I have seen that movie before."
+        "translation": "I have seen that movie before."
       },
       {
         "rank": 223,
         "spanish": "haces",
         "english": "you do, you make (2nd person singular of 'hacer')",
         "exampleSentence": "¿Qué haces aquí?",
-        "english": "What are you doing here?"
+        "translation": "What are you doing here?"
       },
       {
         "rank": 224,
         "spanish": "importa",
         "english": "matters, is important",
         "exampleSentence": "Tu opinión importa.",
-        "english": "Your opinion matters."
+        "translation": "Your opinion matters."
       },
       {
         "rank": 225,
         "spanish": "contigo",
         "english": "with you",
         "exampleSentence": "Voy contigo al cine.",
-        "english": "I'm going to the movies with you."
+        "translation": "I'm going to the movies with you."
       },
       {
         "rank": 226,
         "spanish": "ve",
         "english": "see (2nd person singular of 'ver')",
         "exampleSentence": "Ve el hermoso paisaje.",
-        "english": "See the beautiful landscape."
+        "translation": "See the beautiful landscape."
       },
       {
         "rank": 227,
         "spanish": "tarde",
         "english": "late, afternoon",
         "exampleSentence": "Llegó tarde a la reunión.",
-        "english": "He arrived late to the meeting."
+        "translation": "He arrived late to the meeting."
       },
       {
         "rank": 228,
         "spanish": "oye",
         "english": "listen, hey",
         "exampleSentence": "Oye, ¿me puedes ayudar?",
-        "english": "Hey, can you help me?"
+        "translation": "Hey, can you help me?"
       },
       {
         "rank": 229,
         "spanish": "parte",
         "english": "part",
         "exampleSentence": "Esta es la parte más emocionante de la historia.",
-        "english": "This is the most exciting part of the story."
+        "translation": "This is the most exciting part of the story."
       },
       {
         "rank": 230,
         "spanish": "haber",
         "english": "to have (auxiliary verb used to form compound tenses)",
         "exampleSentence": "Debe haber una explicación.",
-        "english": "There must be an explanation."
+        "translation": "There must be an explanation."
       },
       {
         "rank": 231,
         "spanish": "hombres",
         "english": "men",
         "exampleSentence": "Los hombres están jugando fútbol.",
-        "english": "The men are playing soccer."
+        "translation": "The men are playing soccer."
       },
       {
         "rank": 232,
         "spanish": "problema",
         "english": "problem",
         "exampleSentence": "Tenemos un problema que resolver.",
-        "english": "We have a problem to solve."
+        "translation": "We have a problem to solve."
       },
       {
         "rank": 233,
         "spanish": "mas",
         "english": "more",
         "exampleSentence": "Quiero más chocolate.",
-        "english": "I want more chocolate."
+        "translation": "I want more chocolate."
       },
       {
         "rank": 234,
         "spanish": "saber",
         "english": "to know (information)",
         "exampleSentence": "Ella sabe la respuesta.",
-        "english": "She knows the answer."
+        "translation": "She knows the answer."
       },
       {
         "rank": 235,
         "spanish": "quería",
         "english": "wanted (past tense of 'querer')",
         "exampleSentence": "Quería un helado, pero no tenía dinero.",
-        "english": "I wanted ice cream, but I didn't have money."
+        "translation": "I wanted ice cream, but I didn't have money."
       },
       {
         "rank": 236,
         "spanish": "aún",
         "english": "still, yet",
         "exampleSentence": "Aún no he terminado.",
-        "english": "I haven't finished yet."
+        "translation": "I haven't finished yet."
       },
       {
         "rank": 237,
         "spanish": "veces",
         "english": "times",
         "exampleSentence": "He visitado París varias veces.",
-        "english": "I have visited Paris several times."
+        "translation": "I have visited Paris several times."
       },
       {
         "rank": 238,
         "spanish": "nuestra",
         "english": "our (feminine)",
         "exampleSentence": "Esta es nuestra casa.",
-        "english": "This is our house."
+        "translation": "This is our house."
       },
       {
         "rank": 239,
         "spanish": "hacerlo",
         "english": "to do it",
         "exampleSentence": "Voy a hacerlo ahora mismo.",
-        "english": "I'm going to do it right now."
+        "translation": "I'm going to do it right now."
       },
       {
         "rank": 240,
         "spanish": "cada",
         "english": "each, every",
         "exampleSentence": "Cada día es una nueva oportunidad.",
-        "english": "Every day is a new opportunity."
+        "translation": "Every day is a new opportunity."
       },
       {
         "rank": 241,
         "spanish": "hizo",
         "english": "did (past tense of 'hacer' or 'hacerlo')",
         "exampleSentence": "Ella lo hizo ayer.",
-        "english": "She did it yesterday."
+        "translation": "She did it yesterday."
       },
       {
         "rank": 242,
         "spanish": "veo",
         "english": "I see",
         "exampleSentence": "Veo un pájaro en el cielo.",
-        "english": "I see a bird in the sky."
+        "translation": "I see a bird in the sky."
       },
       {
         "rank": 243,
         "spanish": "tanto",
         "english": "so much, so many",
         "exampleSentence": "Tengo tanto trabajo que hacer.",
-        "english": "I have so much work to do."
+        "translation": "I have so much work to do."
       },
       {
         "rank": 244,
