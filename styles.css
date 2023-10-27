@@ -227,6 +227,7 @@ body {
     -moz-appearance: none;
     border:1px solid rgba(0, 246, 206,0.25);
     background-color:rgba(0, 246, 206,0.25);
+    text-align:center;
 }
 
 #language-select:hover {
