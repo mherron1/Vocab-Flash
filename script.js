@@ -139,6 +139,7 @@ document.body.addEventListener('click', function(e) {
 
     if(isFirstClick){
         isFirstClick = false;
+        document.querySelector('body').style.opacity = 0;
         displayWord();
         document.querySelector('.select-container').style.display = "none";
         document.querySelector('#sliderContainer').style.display = "none";
@@ -149,6 +150,7 @@ document.body.addEventListener('click', function(e) {
         localStorage.setItem('wordRange', document.querySelector('#wordRange').value); // Save the selected language
         displayWord();
         setTimeout(()=>{
+            document.querySelector('body').style.opacity = 1;
             displayWord();  
         },0)
     }
