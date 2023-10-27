@@ -102,7 +102,7 @@ body {
     width:max-content;
     text-align:Center;
     position:relative;
-    transform:translateY(105px);
+    transform:translateY(90px);
 }
 
 
@@ -330,7 +330,7 @@ body {
     #wordDisplay {
         font-size: 40px;
         cursor: pointer;
-        transform:translateY(105px);
+        transform:translateY(90px);
     }
 
     #rankDisplay{
