@@ -74,13 +74,29 @@ function displayWord() {
 
 }
 
+document.querySelector('#wordRange').addEventListener('input', function(e) {
+
+    let selectedValue = document.querySelector('#wordRange').value;
+    document.querySelector('#sliderLabel').textContent = `Randomize from top ${selectedValue} words`
+
+})
+
+
+
 
 
 document.body.addEventListener('click', function(e) {
 
- 
 
+
+    if (e.target.id === 'wordRange' || e.target.id === 'sliderLabel' || e.target.id === 'sliderValue') {
+
+        return;
+    }
+
+        
     if (e.target.id === 'language-select') {
+
 
         const selectElement = document.getElementById("language-select");
 
@@ -152,6 +168,7 @@ document.body.addEventListener('click', function(e) {
         return;
     }
 
+
     if (e.target.id === 'exampleSentences' || e.target.closest('#exampleSentences')) {
         const exampleAudioElement = document.getElementById('exampleAudio');
         exampleAudioElement.playbackRate  = 1;
@@ -174,15 +191,9 @@ document.body.addEventListener('click', function(e) {
     } else {
         displayWord();
     }
+
+
 });
-
-document.getElementById('wordRange').addEventListener('input', function(e) {
-    e.stopPropagation(); 
-    const selectedValue = e.target.value;
-    document.getElementById('sliderValue').textContent = selectedValue;
-    document.getElementById('sliderLabel').textContent = `Randomize from top ${selectedValue} words`;
-
-    });
 
 
     let storedLanguage = "fr";
