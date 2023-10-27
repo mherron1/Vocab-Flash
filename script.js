@@ -210,6 +210,26 @@ document.getElementById('wordRange').addEventListener('input', function(e) {
         }
 
         document.querySelector('body').style.opacity = 1;
+
+
+        if(storedLanguage == 'fr'){
+            words = frenchWords
+            language = "french"
+
+          }
+
+          if(storedLanguage == 'es'){
+            words = spanishWords
+            language = "spanish"
+          }
+
+          if(storedLanguage == 'de'){
+            words = germanWords
+            language = "german"
+          }
+
+
+
     },100)
 
 
