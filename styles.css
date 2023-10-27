@@ -221,12 +221,12 @@ body {
     font-size:22px;
     padding:5px;
     border: none;
-    border-radius: 4px;
+    border-radius: 2px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
-    border:1px solid #000;
-    background-color:#fff;
+    border:1px solid rgba(0, 246, 206,0.25);
+    background-color:rgba(0, 246, 206,0.25);
 }
 
 #language-select:hover {
@@ -311,13 +311,20 @@ body {
     #language-select {
         font-size:16px;
         padding:5px;
-        border: none;
-        border-radius: 5px;
+        border: 0px solid rgba(0, 246, 206,1);
+        border-radius: 2px;
         appearance: none;
         -webkit-appearance: none;
         -moz-appearance: none;
-        border:1px solid #000;
+        background-color:rgba(0, 246, 206,0.25);
+    }
+
+    #language-select option {
         background-color:#fff;
+    }
+
+    #language-select option:hover {
+        background-color:#0396C9;
     }
 
     .reset-button{
