@@ -14,8 +14,7 @@ body {
 .homepage-image{
    position:absolute;
    top:0;
-
-   max-height:500px;
+   max-height:50vh;
 }
 
 #startButton{
@@ -278,9 +277,28 @@ body {
 @media only screen and (max-width: 798px) {
 
 
+    #startButton{
+        padding:8px 25px;
+        border-radius:0%;
+        font-size:26px;
+        color:#000;
+        border:1px solid #000;
+        background-color:#fff;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+    
+    #startButton:active{
+        box-shadow: none;
+    }
+    
+    #startButton:hover{
+        box-shadow: none;
+    }
+
+
     .select-container {
         position:absolute;
-        bottom:30%;
+        bottom:20%;
         align-items: center;
         justify-content: space-between;
         margin: 20px;
