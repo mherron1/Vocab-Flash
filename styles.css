@@ -7,8 +7,15 @@ body {
     justify-content: center;
     align-items: center;
     transition: background-color 0.5s;
-    background-color: rgb(255, 255, 255);
+    background-color: #F8FBFE;
     opacity:0;
+}
+
+.homepage-image{
+   position:absolute;
+   top:0;
+
+   max-height:500px;
 }
 
 #startButton{
@@ -17,19 +24,16 @@ body {
     font-size:35px;
     color:#000;
     border:1px solid #000;
+    background-color:#fff;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 #startButton:active{
-    color:#fff;
-    background-color:#0096FF;
-    border:1px solid #0096FF;
+    box-shadow: none;
 }
 
 #startButton:hover{
-    border:1px solid #0096FF;
-    color:#fff;
-    background-color:#0096FF;
+    box-shadow: none;
 }
 
 #startButton:hover{
@@ -43,6 +47,7 @@ body {
     position:absolute;
     bottom:15%;
 }
+
 
 
 #wordDisplayContainer {
@@ -98,6 +103,7 @@ body {
     width:max-content;
     text-align:Center;
     position:relative;
+    transform:translateY(105px);
 }
 
 
@@ -213,12 +219,16 @@ body {
     font-size:22px;
     padding:5px;
     border: none;
-    border-radius: 5px;
+    border-radius: 4px;
     appearance: none;
     -webkit-appearance: none;
     -moz-appearance: none;
     border:1px solid #000;
     background-color:#fff;
+}
+
+#language-select:hover {
+cursor:pointer;
 }
 
 
@@ -299,18 +309,10 @@ body {
     }
 
 
-    #startButton{
-        padding:65px 50px;
-        border-radius:50%;
-        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-        font-size:40px;
-    }
-
-
     #wordDisplay {
         font-size: 40px;
         cursor: pointer;
-        transform:translateY(-80px);
+        transform:translateY(105px);
     }
 
     #rankDisplay{

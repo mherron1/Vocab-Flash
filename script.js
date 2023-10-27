@@ -126,6 +126,7 @@ document.body.addEventListener('click', function(e) {
         displayWord();
         document.querySelector('.select-container').style.display = "none";
         document.querySelector('#sliderContainer').style.display = "none";
+        document.querySelector('.homepage-image').style.display = "none";
         document.querySelector('.reset-button').style.display = "block";
         document.querySelector('#wordDisplay').style.transform = "translateY(25px)";
         localStorage.setItem('selectedLanguage', document.querySelector('#language-select').value);
