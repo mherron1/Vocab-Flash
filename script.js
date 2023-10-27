@@ -195,13 +195,13 @@ document.getElementById('wordRange').addEventListener('input', function(e) {
 
     setTimeout(()=>{
 
-        if(storedLanguage != ""){
+        if(localStorage.getItem('selectedLanguage')){
             document.querySelector('#language-select').value = storedLanguage;  
         }else{
             document.querySelector('#language-select').value = "fr";   
         }
 
-        if(storedRange != ""){
+        if(localStorage.getItem('wordRange')){
             document.querySelector('#wordRange').value = storedRange;
             document.querySelector('.sliderInitialRange').textContent = storedRange;
         }else{
@@ -231,6 +231,7 @@ document.getElementById('wordRange').addEventListener('input', function(e) {
 
 
     },100)
+
 
 
 

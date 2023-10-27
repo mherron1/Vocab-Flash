@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     transition: background-color 0.5s;
-    background-color: #ffffff;
+    background-color: beige;
     opacity:0;
 }
 
