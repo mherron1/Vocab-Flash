@@ -297,13 +297,13 @@ body {
         color:#000;
         border:1px solid #000;
         background-color:#fff;
-        box-shadow: rgba(43, 194, 169, 0.507) 0px 2px 8px 0px;
+        box-shadow: rgba(0, 0, 0, 0.507) 0px 2px 8px 0px;
     }
     
     #startButton:active{
         box-shadow: none;        
         box-shadow: none;
-        border:1px solid rgba(43, 194, 169, 0.466)     
+        border:1px solid rgba(0, 0, 0, 0.466)     
     }
     
     
