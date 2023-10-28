@@ -231,6 +231,7 @@ body {
 
 #language-select option {
     background-color: #fff;
+    font-size:15px;
 }
 
 #language-select:hover {
